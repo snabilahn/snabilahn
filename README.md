@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snabilahn
-- 👀 I’m interested in Front-End Web Developer
-- 🌱 I’m currently learning ReactJs Frontend Web Developer
+- 👀 I’m interested in Software Testing and Frontend Web Developer
+- 🌱 I’m currently learning Software Testing
 <!---
 - 📫 How to reach me ...
 --->
